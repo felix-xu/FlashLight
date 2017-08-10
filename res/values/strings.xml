@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">手电筒工具</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">请选择背光颜色</string>
+    <string name="orange">------橘色------</string>
+    <string name="green">------绿色------</string>
+    <string name="blue">------蓝色------</string>
+    <string name="pink">------粉色------</string>
+    <string name="yellow">------黄色------</string>
+    <string name="white">------白色------</string>
+    <string name="cancel">取消</string>
+	<string name="infom">请点击屏幕切换颜色</string>
+
+</resources>
